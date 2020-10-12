@@ -1,0 +1,62 @@
+body {
+    background: #DADADA;
+    margin: 24px 12px;
+}
+
+.logo {    
+    height: 72px;
+    margin: 12px 12px 6px 12px;
+}
+
+.center {
+    max-width: 1084px;
+    margin: auto;
+    text-align: center;
+}
+
+.image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: 3px;
+}
+
+.panel {
+    margin: 12px 0px;
+    background: white;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+
+.content {
+    text-align: left;
+}
+
+.center {
+    max-width: 1084px;
+    margin: auto;
+    text-align: center;
+}
+
+.padding-24 { 
+    padding: 12px 24px 12px 24px;
+}
+
+.link {
+    margin: 12px 0px;
+}
+
+a {
+    color: #808080;
+}
+
+    a:visited {
+        color: #808080;
+    }
+
+    a:hover {
+        color: #000000;
+    }
